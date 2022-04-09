@@ -59,7 +59,7 @@
     "lib-jitsi-meet": "github:jitsi/lib-jitsi-meet#46691d8442b2db389170f9e67d8d1b84b164a493",
     "libflacjs": "github:mmig/libflac.js#93d37e7f811f01cf7d8b6a603e38bd3c3810907d",
     "lodash": "4.17.13",
-    "moment": "2.19.4",
+    "moment": "2.29.2",
     "moment-duration-format": "2.2.2",
     "pixelmatch": "5.1.0",
     "react": "16.9",
